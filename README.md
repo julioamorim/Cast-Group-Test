@@ -1,4 +1,4 @@
-# Cast-Group-Test
+# Cast-Group-Test - Assignment 2
 Assignment Java Cast Group
 
 ========================================================================
